@@ -1,0 +1,17 @@
+Script started on 2016年03月09日 (週三) 15時37分17秒
+F74041179@2015cpp:~$ g[Kwhoami;pwd
+F74041179
+/home/F74041179
+F74041179@2015cpp:~$ git config.[K -l
+user.name=SADevil7729
+user.email=SADevil7729@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+F74041179@2015cpp:~$ git clone http://github.com/SADevil7729.git[1Pgit/gitlgitagitbgit1git.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+F74041179@2015cpp:~$ exit
+
+Script done on 2016年03月09日 (週三) 15時38分13秒
